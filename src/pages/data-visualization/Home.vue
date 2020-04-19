@@ -37,7 +37,7 @@
         </div>
 
         <div class="project-item">
-          <a class="link" href="https://github.com/Seedarchangel/TuChart/blob/master/Example_Graphs/En_US.md"> </a>
+          <a class="link" href="http://pyact.com/datalab/"> </a>
           <h4 class="project-intro-header">Data-lab长线经济数据网站</h4>
           <ul class="tag-list">
             <p>前端</p>
