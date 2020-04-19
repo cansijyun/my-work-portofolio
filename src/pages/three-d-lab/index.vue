@@ -36,7 +36,7 @@
 
 
           <div class="project-item">
-            <a class="link" href=""> </a>
+            <a class="link" href="https://github.com/cansijyun/ncov-globe"> </a>
             <h4 class="project-intro-header">新冠肺炎疫情三维地球</h4>
             <ul class="tag-list">
               <li class="tag tag-item-python">WebGL</li>
