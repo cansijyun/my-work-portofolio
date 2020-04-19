@@ -1,6 +1,7 @@
 <template>
   <section>
     <nav class="mytopbar">
+      <img src="static/img/navbar/color_nav_bg.jpg" class="background-img">
 <!--          <div>{{$route.path}}</div>-->
 <!--          <div>{{$route.name}}</div>-->
       <ul class="nav-bar-right nav-menu">
@@ -37,7 +38,11 @@ export default {
 
 <style lang="scss" scoped>
   @import 'static/css/main';
-
+  .background-img{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+  }
   .nav-menu{
     float: right;
     margin: 0;
