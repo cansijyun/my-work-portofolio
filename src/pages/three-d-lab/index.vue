@@ -34,7 +34,6 @@
           </div>
 
 
-
           <div class="project-item">
             <a class="link" href="https://github.com/cansijyun/ncov-globe"> </a>
             <h4 class="project-intro-header">新冠肺炎疫情三维地球</h4>
@@ -51,6 +50,25 @@
                 <li>每隔两小时后端爬虫爬取<strong>疫情</strong>数据并且存储到数据库</li>
               </ul>
               <img class="project-intro-pic" src="static/img/ncov-globe.gif">
+            </div>
+          </div>
+
+          <div class="project-item">
+            <a class="link" href="http://pyact.com/sim-driver/"> </a>
+            <h4 class="project-intro-header">模拟驾驶</h4>
+            <ul class="tag-list">
+              <li class="tag tag-item-python">BabylonJS</li>
+              <li class="tag tag-item-django">CannonJS</li>
+              <li class="tag tag-item-mySQL">Typescript</li>
+              <li class="tag tag-item-nginx">Webpack</li>
+            </ul>
+            <div class="project-intro">
+              <p>基于「<strong>BabylonJS</strong>」和「<strong>CannonJS</strong>」开发的<strong>疫情可视化</strong>三维地球：</p>
+              <ul class="intro-list">
+                <li>多种地图多种天气选择</li>
+                <li>CannonJS为物理引擎，控制小车行驶</li>
+              </ul>
+              <img class="project-intro-pic" src="static/img/sim-driver.gif">
             </div>
           </div>
 
