@@ -17,16 +17,8 @@
       </ul>
     </div>
     <div class="content">
-      <h1 class="title">陈思远的作品集</h1>
+      <h1 class="title">Tsan的作品集</h1>
       <div class="boxs">
-        <div class="box-frame">
-          <router-link class="link" to="/three-d"> </router-link>
-          <div class="box">
-            <img class="box-background" src="static/img/mini-city.gif">
-            <p >三维视觉作品集</p>
-          </div>
-        </div>
-
         <div class="box-frame">
           <router-link class="link" to="/website"> </router-link>
           <div class="box">
@@ -35,6 +27,14 @@
           </div>
         </div>
 
+        <div class="box-frame">
+          <router-link class="link" to="/three-d"> </router-link>
+          <div class="box">
+            <img class="box-background" src="static/img/mini-city.gif">
+            <p >三维视觉作品集</p>
+          </div>
+        </div>
+        
         <div class="box-frame">
           <router-link class="link" to="/data-visual"> </router-link>
           <div class="box">

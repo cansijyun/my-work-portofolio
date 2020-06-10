@@ -4,7 +4,7 @@
       <div class="container">
         <div class="row">
           <div class="col-sm-6" style="float: right;margin-right: 100px">
-            &copy; 2018-2022 Tsan Siyun
+            &copy; 2018-2022 Tsan
           </div>
 <!--          <div class="col-sm-6">-->
 <!--            <ul class="pull-right">-->
